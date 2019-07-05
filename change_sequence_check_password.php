@@ -10,7 +10,7 @@ ob_start();
 <html>
 
 <head><link rel="stylesheet" href="css.css" type="text/css"/>
-
+ok
 <link rel="shortcut icon" href="photos/favicon.ico">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
